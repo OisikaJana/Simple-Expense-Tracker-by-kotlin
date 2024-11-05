@@ -24,3 +24,10 @@ Step 4:
     Connect an Android device via USB or start an emulator.
     Click Run > Run 'app' in Android Studio, or press the green play button in the toolbar.
     The app will launch on the connected device/emulator, showing the UI you created in XML.
+
+# How to Use the App
+
+    i. Add Expense: Enter an amount in the "Enter Amount" field and a category (e.g., Food, Transport) in the "Enter Category" 
+       field, then click "Add Expense".
+   ii. View Summary: Click "View Summary" to see a summary of all expenses grouped by category in a ListView.
+  iii. That’s it! You now have a simple Android Expense Tracker app that runs on your device or emulator.
