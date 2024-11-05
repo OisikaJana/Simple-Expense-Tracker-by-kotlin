@@ -18,3 +18,9 @@ Step 3:
     Write the Kotlin Code
     Go to MainActivity.kt in the java folder.
     Replace the content of MainActivity.kt with the following code:
+
+Step 4: 
+    Run the App on an Emulator or Device
+    Connect an Android device via USB or start an emulator.
+    Click Run > Run 'app' in Android Studio, or press the green play button in the toolbar.
+    The app will launch on the connected device/emulator, showing the UI you created in XML.
