@@ -13,3 +13,8 @@ Step 2:
     Add the XML Layout
     In Android Studio, go to the res/layout folder, and open activity_main.xml.
     Replace the content of activity_main.xml with the code I provided earlier.
+
+Step 3:
+    Write the Kotlin Code
+    Go to MainActivity.kt in the java folder.
+    Replace the content of MainActivity.kt with the following code:
